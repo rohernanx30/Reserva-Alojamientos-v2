@@ -1,6 +1,6 @@
 # 🏨 Alojamiento Kodigo
 
-**Demo:** [https://kodigo-api-reservaciones.netlify.app/](https://kodigo-api-reservaciones.netlify.app/)
+**Demo:** https://alojapp-reserva-final.netlify.app/login
 
 Este proyecto es una aplicación web desarrollada como parte de la tarea del módulo de React del Bootcamp Fullstack Junior (FSJ28) de Kodigo.
 
@@ -28,7 +28,7 @@ La aplicación permite gestionar alojamientos y reservaciones, consumiendo una A
 ## 🚀 Ejecución del proyecto
 1. 📥 Clona el repositorio:
    ```bash
-   git clone https://github.com/franklinrony/KODIGO-API
+   git clone https://github.com/rohernanx30/Reserva-Alojamientos-v2.git
    ```
 2. 📦 Instala las dependencias:
    ```bash
@@ -47,6 +47,5 @@ La aplicación permite gestionar alojamientos y reservaciones, consumiendo una A
 - Franklin Rony Cortez Barrera
 - Rocío Guadalupe Martínez Hernández
 - Luis Antonio Turcios Alvarez
--
 ---
 Proyecto para la tarea del módulo de React - Bootcamp Fullstack Junior (FSJ28) - Kodigo 🚀 
